@@ -1,6 +1,6 @@
 {
-    "name": "Eufy-Clean",
-    "render_readme": true,
-    "homeassistant": "2021.9.0",
-    "content_in_root": false
+  "name": "Eufy Clean",
+  "content_in_root": false,
+  "domains": ["eufy_clean"],
+  "iot_class": "Cloud Push"
 }
