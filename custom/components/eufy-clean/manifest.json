@@ -1,0 +1,11 @@
+{
+    "domain": "eufy_clean",
+    "name": "Eufy Clean",
+    "version": "0.1.0",
+    "documentation": "https://github.com/jimbo19922003/eufy_clean", // Replace with your repo
+    "requirements": ["aiohttp", "node-pty"], // Add any required Python packages
+    "dependencies": [],
+    "codeowners": ["@jimbo19922003"], // Replace with your GitHub username
+    "config_flow": true,
+    "iot_class": "local_push" // or "cloud_push" if appropriate
+}
