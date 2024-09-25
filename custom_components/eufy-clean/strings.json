@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Eufy Clean",
+        "description": "Enter your Eufy Clean account credentials.",
+        "data": {
+          "email": "Email",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid credentials. Please try again."
+    }
+  }
+}
