@@ -1,11 +1,11 @@
 {
-    "domain": "eufy_clean",
-    "name": "Eufy Clean",
-    "version": "0.1.0",
-    "documentation": "https://github.com/jimbo19922003/eufy_clean", 
-    "requirements": ["aiohttp", "node-pty"], 
-    "dependencies": [],
-    "codeowners": ["@jimbo19922003"], 
-    "config_flow": true,
-    "iot_class": "local_push"
+  "domain": "eufy_clean",
+  "name": "Eufy Clean",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/home-assistant-eufy-clean",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "requirements": [],
+  "iot_class": "cloud_push",
+  "config_flow": true
 }
